@@ -19,3 +19,10 @@ The data in the dataset has been cleaned using filters after importing into Tabl
 Screenshot of data model
 
 The above data model forms a star schema with transactions table as the Fact Table and the rest of the tables are the Dimension Tables
+
+
+
+
+Tableau Public : https://public.tableau.com/app/profile/neha.a.m
+
+Linkedin: https://www.linkedin.com/in/neha-manoharan/
